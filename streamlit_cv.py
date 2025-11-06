@@ -158,7 +158,7 @@ def llm_run_loop(summary, linkedin, job_description, name="Adam Johnson"):
     previous_cv = ""
     cv_full_output = ""
     
-    max_iterations = 10 # Prevent endless loops in a web environment
+    max_iterations = 5 # Prevent endless loops in a web environment
     
     with st.empty(): # Use an empty container to display real-time status
         while not is_accepted and counter <= max_iterations:
