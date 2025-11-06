@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🤖 Agentic Patterns Showcase
 A Python project demonstrating foundational agentic patterns using the OpenAI SDK and models accessed via the OpenRouter service. This repository is structured for exploring and developing different model-based architectures, starting with a simple chat agent.
 
@@ -65,3 +66,7 @@ API Service: OpenRouter (for flexible model access)
 
 Dependency Management: uv
 
+=======
+# cv_app_deploy
+AI agent CV app deploy with Streamlit
+>>>>>>> 8c02e3f2d5f19e2bfda2a211a78d251cf2c976e2
